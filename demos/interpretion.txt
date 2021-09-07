@@ -1,2 +1,2 @@
-﻿half_line: 半线算法(腾讯地图展示,忽略地球曲度).
+﻿half_line: 半线算法(腾讯地图演示,忽略地球曲度).
  参考文档:https://web.cs.ucdavis.edu/~okreylos/TAship/Spring2000/PointInPolygon.html
